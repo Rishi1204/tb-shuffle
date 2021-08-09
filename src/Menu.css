@@ -1,0 +1,47 @@
+.Menu {
+  text-align: center;
+}
+.Navbar {
+  height: 50px;
+  text-align: left;
+  background-color: rgb(31, 31, 31);
+  color: white;
+  padding: 10px;
+}
+.NB-Button {
+  font-size: 30px;
+  width: 33%;
+}
+.Grid {
+  z-index: 0;
+  position: absolute;
+  width: 80%;
+  font-size: 30px;
+  background-color: white;
+  height: 400px;
+}
+.Grid button {
+  font-size: 30px;
+}
+.FormON,
+.FormOFF {
+  width: 100%;
+  height: 400px;
+  background-color: white;
+  font-size: 30px;
+  z-index: 2;
+}
+.FormON {
+  position: absolute;
+}
+
+.TB-Button {
+  margin: 20px;
+  height: 300px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.Close {
+  font-size: 30px;
+}
